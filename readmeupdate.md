@@ -7,7 +7,7 @@
 ![Project](https://img.shields.io/badge/Project-Dummy_Ecommerce-success?style=for-the-badge)
 ![QA](https://img.shields.io/badge/QA-Test_Cases-orange?style=for-the-badge)
 
-# 🧪 ShopEasy - E-Commerce Testing Project
+# 🧪 TestShopEasy - E-Commerce Testing Project
 
 ### Complete Manual QA Test Cases Documentation
 
